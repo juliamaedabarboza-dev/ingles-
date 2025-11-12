@@ -12,7 +12,7 @@ header {
     color: rgba(163, 226, 245);
 }
 
-section {
+.chamada {
     background: rgb(241, 117, 179);
     padding-top: 80px;
     padding-bottom: 80px;
@@ -37,4 +37,8 @@ img {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+.categoria{
+    padding-left:20px;
+    padding-right:20px;
 }
