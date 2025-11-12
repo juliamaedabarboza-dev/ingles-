@@ -1,31 +1,40 @@
-body{
+body {
     color: rgb(241, 117, 179);
     background: rgb(163, 226, 245);
     margin: 0px;
     font-family: "Caveat";
 }
 
-header{
-    border-bottom: solid  2px rgb(240, 240, 240);
+header {
+    border-bottom: solid 2px rgb(240, 240, 240);
     padding: 20px;
     font-size: 32px;
     color: rgba(163, 226, 245);
 }
 
-section{
-    background: rgb(241, 117, 179) ;
+section {
+    background: rgb(241, 117, 179);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 5%;
 }
-h1{
-    font-size: 40px; 
+
+h1 {
+    font-size: 40px;
 }
-img{
+p {
+    font-size: 40px;
+}
+img {
     height: 200px;
- }
+}
+.categoria videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
