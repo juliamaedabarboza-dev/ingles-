@@ -1,20 +1,20 @@
 body {
-    color: rgb(241, 117, 179);
-    background: rgb(163, 226, 245);
+    color: rgb(255, 3, 3);
+    background: rgb(22, 245, 1);
     margin: 0px;
     font-family: "Caveat";
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(240, 240, 240);
+    border-bottom: solid 2px rgb(247, 5, 5);
     padding: 20px;
     font-size: 32px;
     color: rgba(163, 226, 245);
 }
 
 .chamada {
-    background: rgb(241, 117, 179);
+    background: rgb(252, 0, 126);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
